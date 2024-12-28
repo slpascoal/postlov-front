@@ -1,9 +1,11 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import LatestPosts from '@/components/LatestPosts.vue';
+
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <LatestPosts />
   </main>
 </template>
